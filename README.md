@@ -1,1 +1,1 @@
-# newproject
+clone the new project
